@@ -424,7 +424,7 @@ Inspector visual para A-Frame => `<ctrl>+<alt>+i`.
 
 <!-- .slide: data-background="media/img/header.png" -->
 
-# Communidad
+# Comunidad
 
 https://aframe.io/blog/
 
@@ -432,7 +432,7 @@ https://aframe.io/blog/
 
 <!-- .slide: data-background="media/img/apainter.gif" -->
 
-# Art - *A-Painter*
+# Arte - *A-Painter*
 
 @mozillavr
 
@@ -440,7 +440,7 @@ https://aframe.io/blog/
 
 <!-- .slide: data-background="media/img/syria.gif" -->
 
-# Journalism - *Fear of the Sky*
+# Periodismo - *Fear of the Sky*
 
 Amnesty International UK
 
@@ -448,7 +448,7 @@ Amnesty International UK
 
 <!-- .slide: data-background="media/img/mars.jpg" -->
 
-# Journalism - *Journey to Mars*
+# Periodismo - *Journey to Mars*
 
 The Washington Post
 
@@ -464,7 +464,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/adit.gif" -->
 
-# Data Visualization - *Adit*
+# Visualización de datos - *Adit*
 
 @datatitian
 
@@ -480,7 +480,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/ux.gif" -->
 
-# Prototyping - *UI Widgets*
+# Prototipado - *UI Widgets*
 
 @whoyee
 
@@ -488,7 +488,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/math.gif" -->
 
-# Mathematics - *MathworldVR*
+# Matemáticas - *MathworldVR*
 
 @sleighdogs
 
@@ -512,7 +512,7 @@ The Washington Post
 
 <!-- .slide: data-background-video="media/video/livetour.mp4" data-background-video-loop="true" -->
 
-# Real Estate - *Live Tour*
+# Tours - *Live Tour*
 
 iStaging
 
@@ -520,7 +520,7 @@ iStaging
 
 <!-- .slide: data-background="media/img/cadavr.gif" -->
 
-# Education - *CadaVR*
+# Educación - *CadaVR*
 
 @drryanjames
 
@@ -535,7 +535,7 @@ iStaging
   </div>
   <div>
     <img data-src="media/img/slack.png">
-    <i>4000+ meimbros en Slack</i>
+    <i>4000+ miembros en Slack</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
