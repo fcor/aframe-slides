@@ -1,6 +1,8 @@
-# aframe-slides
+# A-Frame Slides
 
-Slides sobre WebVR y A-Frame
+Presentación sobre WebVR y A-Frame.
+
+[Ver slides](https://fcor.github.io/aframe-slides/#/)
 
 ## Tabla de contenido
 

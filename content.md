@@ -531,15 +531,15 @@ iStaging
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/github.png">
-    <i>180+ contributors 6000+ Stargazers</i>
+    <i>230+ contributors 8000+ Stargazers</i>
   </div>
   <div>
     <img data-src="media/img/slack.png">
-    <i>4000+ members on Slack</i>
+    <i>4000+ meimbros en Slack</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
-    <i>100s of featured projects</i>
+    <i>100s de proyectos compartidos</i>
   </div>
 </div>
 
