@@ -1,13 +1,13 @@
 {
-  "name": "aframe-presentation-kit",
+  "name": "aframe-slides",
   "version": "1.0.0",
-  "description": "Official starter slides for giving talks and presentations about A-Frame.",
+  "description": "Slides about A-Frame.",
   "scripts": {
     "start": "serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aframevr/aframe-presentation-kit.git"
+    "url": "git+https://github.com/fcor/aframe-slides.git"
   },
   "keywords": [
     "aframe",
@@ -19,13 +19,9 @@
     "webvr",
     "slidedeck"
   ],
-  "author": "Kevin Ngo <kngo@mozilla.com>",
+  "author": "Fabio Cortés <fabio@fjcr.pro>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/aframevr/aframe-presentation-kit/issues"
-  },
-  "homepage": "https://github.com/aframevr/aframe-presentation-kit#readme",
   "devDependencies": {
-    "live-server": "^1.2.0"
+    "live-serve": "^1.2.0"
   }
 }
