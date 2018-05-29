@@ -1,0 +1,27 @@
+<a-scene>
+  <a-assets>
+    <img src="https://killcloud.nyc3.digitaloceanspaces.com/VR-assets/grid.png" id="grid" crossorigin="anonymous">
+    <img src="https://killcloud.nyc3.digitaloceanspaces.com/VR-assets/stars.jpg" id="sky"  crossorigin="anonymous" />
+    <!-- <a-asset-item id="homer" src="https://killcloud.nyc3.digitaloceanspaces.com/VR-assets/homer.gltf" crossorigin="anonymous"></a-asset-item> -->
+  </a-assets>
+
+  <!-- Homero -->
+  <!-- <a-entity id="target" colada-model="#homer" position="0 0 -4" ></a-entity> -->
+
+  <!-- Plano -->
+  <a-entity geometry="primitive: plane; width: 10000; height: 10000;"
+            rotation="-90 0 0"
+            material="src: #grid; repeat: 10000 10000; transparent: true;metalness:0.6; roughness: 0.4; sphericalEnvMap: #sky;"
+            >
+  </a-entity>
+
+  <!-- Sky -->
+  <a-sky src="#sky" rotation="0 90 0"></a-sky>
+
+  <!-- Luces -->
+  <a-entity light="color: #ccccff; intensity: .1; type: ambient;" visible=""></a-entity>
+  <a-entity light="color: ffaaff; intensity: 1.5" position="5 5 5"></a-entity>
+  <a-entity light="color: white; intensity: 0.5" position="-5 5 15"></a-entity>
+  <a-entity light="color: white; intensity: .1; type: ambient;"></a-entity>
+
+</a-scene>
