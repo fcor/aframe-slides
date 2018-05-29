@@ -283,7 +283,7 @@ Un framework web para crear experiencias de Realidad Virtual
 <!-- .slide: data-background="media/img/metaverse.jpg" -->
 
 <div class="stretch">
-<iframe width="900" height="469,75" src="https://truthful-winter.surge.sh/" style="border: none"></iframe>
+<iframe width="900" height="469,75" src="https://truthful-winter.surge.sh/" style="border: none; margin-top: 40px"></iframe>
 </div>
 
 <!-- NOTES -->
@@ -354,103 +354,35 @@ Un framework web para crear experiencias de Realidad Virtual
 
 ---
 
-## Composing an Entity
+## Todo tipo de assets
 
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
+<!-- .slide: data-background="media/img/aframe.jpg" -->
 
-```html
-<a-entity
-  geometry="primitive: sphere; radius: 1.5"
-  material="color: #343434; roughness: 0.4; sphericalEnvMap: #texture">
-```
-<!-- .element: class="stretch" -->
+<div class="stretch">
+<iframe width="900" height="469,75" src="https://normal-sink.surge.sh/" style="border: none; margin-top: 40px"></iframe>
+</div>
 
 <!-- NOTES -->
-- Syntax similar to CSS styles
-- Component names as HTML attributes
-- Component properties and values as HTML attribute value
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  geometry="primitive: sphere; radius: 1.5"
-  material="color: #343434; roughness: 0.4; sphericalEnvMap: #texture"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2">
-```
-<!-- .element: class="stretch" -->
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  geometry="primitive: sphere; radius: 1.5"
-  material="color: #343434; roughness: 0.4; sphericalEnvMap: #texture"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2"
-  animation="property: rotation; loop: true; to: 0 360 0"
-  movement-pattern="type: spline; speed: 4">
-```
-<!-- .element: class="stretch" -->
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  json-model="src: #robot"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2"
-  animation="property: rotation; loop: true; to: 0 360 0"
-  movement-pattern="type: spline; speed: 4">
-```
-<!-- .element: class="stretch" -->
-
----
-
-## Composing an Entity
-
-<!-- .slide: data-background="media/img/minecraft-blocks.png" data-transition="none" -->
-
-```html
-<a-entity
-  json-model="src: #robot"
-  position="-1 2 4" rotation="45 0 90" scale="2 2 2"
-  animation="property: rotation; loop: true; to: 0 360 0"
-  movement-pattern="type: attack; target: #player"
-  explode="on: hit">
-```
-<!-- .element: class="stretch" -->
+- No necesariamente debe ser VR
+- A-Frame sirve para crear experiencias 3D en la web
 
 ---
 
 <!-- .slide: data-background="media/img/standard-components.png" data-background-size="contain" -->
 
 <!-- NOTES -->
-- These are some components that ship with A-Frame
-- A-Frame is fully extensible at its core so...
+- Estos son algunos componentes que vienen con A-Frame
+- - El core de A-Frame es muy extensible así que...
 
 ---
 
 <!-- .slide: data-background="media/img/community-components.png" data-background-size="contain" -->
 
 <!-- NOTES -->
-- Community has filled the ecosystem with tons of components
-- Components can do whatever they want, have full access to three.js and Web APIs
-- The component ecosystem the lifeblood of A-Frame
-- Physics, leap motion, particle systems, audio visualizations, oceans
-- Drop these components as script tags and use them straight from HTML
-- Advanced developers empowering other developers
-- Working on collecting these components...
+- La comunidad ha creado muchos componentes
+- Los componentes que crees pueden hacer loq quieras, tienen acceso total a three.js y a los Web APIs
+- Física, leap motion, sistemas de particulas, visualizacion de audio etc etc
+- El trabajo de grandes desarrolladores al alcance de todos
 
 ---
 
@@ -458,16 +390,15 @@ Un framework web para crear experiencias de Realidad Virtual
 
 <!-- .slide: data-background-color="#333" -->
 
-Curated collection of A-Frame components.
+Colección de los mejores componentes de A-Frame
 
 <a class="stretch" href="https://aframe.io/aframe-registry">
   <video loop data-src="media/video/registrypreview.mp4" data-autoplay></video>
 </a>
 
 <!-- NOTES -->
-- Collecting them into the A-Frame registry
-- Like a store of components that we make sure work well
-- People can browse and search for components or install them....
+- Es como una tienda de componentes top
+- Todos pueden entrarm buscar e instalar
 
 ---
 
@@ -475,7 +406,7 @@ Curated collection of A-Frame components.
 
 <!-- .slide: data-background-color="#333" -->
 
-Curated collection of A-Frame components.
+Colección de los mejores componentes de A-Frame
 
 <video loop data-src="media/video/leaphands.mp4" data-autoplay></video>
 
@@ -485,7 +416,7 @@ Curated collection of A-Frame components.
 
 <!-- .slide: data-background="media/img/inspector.png" data-state="state--bg-dark" -->
 
-Visual tool for A-Frame. Just `<ctrl>+<alt>+i`.
+Inspector visual para A-Frame => `<ctrl>+<alt>+i`.
 
 <div class="stretch" data-aframe-scene="scenes/80s.html"></div>
 
@@ -493,7 +424,7 @@ Visual tool for A-Frame. Just `<ctrl>+<alt>+i`.
 
 <!-- .slide: data-background="media/img/header.png" -->
 
-# Community
+# Communidad
 
 https://aframe.io/blog/
 
