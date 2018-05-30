@@ -535,7 +535,7 @@ iStaging
   </div>
   <div>
     <img data-src="media/img/slack.png">
-    <i>4000+ miembros en Slack</i>
+    <i>4500+ miembros en Slack</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
@@ -544,7 +544,55 @@ iStaging
 </div>
 
 <!-- NOTES -->
-- Open source and inclusive project
-- Most work done on GitHub
-- Active community on Slack to share projects, interact, hang out, seek help
-- Featured projects on the `awesome-aframe` repository and *A Week of A-Frame* blog
+- Open source
+- Todo en github
+- Comunidad activa en slack
+
+------
+
+<!-- .slide: data-background="media/img/vrbrowser.jpg" -->
+
+#VR Browsers
+
+---
+
+<!-- .slide: data-background="media/img/supermedium.jpg" -->
+
+#Supermedium
+
+@supermediumvr
+
+
+---
+
+<!-- .slide: data-background="media/img/lensvr.png" -->
+
+#Lens VR
+
+@LensVRBrowser
+
+---
+
+<!-- .slide: data-background="media/img/mozilla-vr.jpg" -->
+
+#Firefox Reality
+
+@mozillareality
+
+------
+
+<!-- .slide: data-background="media/img/aframe.jpg" -->
+
+#Aprende A-Frame!
+
+---
+
+<!-- .slide: data-background="media/img/PortadaVR.jpg" -->
+
+<div class="talk-title">
+  <p class="links">skl.sh/2x4jGNc</p>
+  <p class="links">github.com/fcor/aframe-workshop/</p>
+  <p class="talk-info">
+    @fabiojcortes | **fjcr.pro**
+  </p>
+</div>

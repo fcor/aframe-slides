@@ -467,3 +467,9 @@ div.slide__boilerplate + video {
   margin: 0 !important;
   zoom: 1 !important;
 }
+
+.links{
+  color: white !important;
+  font-weight: bold !important;
+  font-size: 58px !important;
+}
