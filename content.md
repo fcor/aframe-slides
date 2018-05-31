@@ -577,6 +577,9 @@ iStaging
 
 #VR Browsers
 
+<!-- NOTES -->
+- “WebVR-ready” versus “VR-first” browsers
+
 ---
 
 <!-- .slide: data-background="media/img/supermedium.jpg" -->
@@ -610,7 +613,7 @@ iStaging
 
 ---
 
-<!-- .slide: data-background="media/img/PortadaVR.jpg" -->
+<!-- .slide: data-background="media/img/aframe.jpg" -->
 
 <div class="talk-title">
   <p class="links">skl.sh/2x4jGNc</p>
