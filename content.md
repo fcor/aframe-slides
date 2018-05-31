@@ -428,6 +428,10 @@ Inspector visual para A-Frame => `<ctrl>+<alt>+i`.
 
 https://aframe.io/blog/
 
+<!-- NOTES -->
+- La comunidad de VR mas grande del mundo
+- Week of aframe
+
 ---
 
 <!-- .slide: data-background="media/img/apainter.gif" -->
@@ -435,6 +439,11 @@ https://aframe.io/blog/
 # Arte - *A-Painter*
 
 @mozillavr
+
+<!-- NOTES -->
+- Basado en Tilt Brush de Google
+- 100% web - tilt brush solo para HTC y Oculus
+- Sin instalaciones
 
 ---
 
@@ -444,6 +453,10 @@ https://aframe.io/blog/
 
 Amnesty International UK
 
+<!-- NOTES -->
+- "Documental" interactivo sobre la situación en siria
+- Devastación de las barrel bombs
+
 ---
 
 <!-- .slide: data-background="media/img/mars.jpg" -->
@@ -451,6 +464,9 @@ Amnesty International UK
 # Periodismo - *Journey to Mars*
 
 The Washington Post
+
+<!-- NOTES -->
+- Viaje interactivo por marte
 
 ---
 
@@ -460,13 +476,9 @@ The Washington Post
 
 @kfarr
 
----
-
-<!-- .slide: data-background="media/img/adit.gif" -->
-
-# Visualización de datos - *Adit*
-
-@datatitian
+<!-- NOTES -->
+- Crear ciudades con controles táctiles en VR
+- Open source
 
 ---
 
@@ -476,13 +488,9 @@ The Washington Post
 
 @mozillavr
 
----
-
-<!-- .slide: data-background="media/img/ux.gif" -->
-
-# Prototipado - *UI Widgets*
-
-@whoyee
+<!-- NOTES -->
+- Shooter en VR hecho por mozillavr
+- Open source
 
 ---
 
@@ -492,6 +500,9 @@ The Washington Post
 
 @sleighdogs
 
+<!-- NOTES -->
+- Plataforma de matemáticas hecha en VR
+
 ---
 
 <!-- .slide: data-background="media/img/ar.gif" -->
@@ -500,13 +511,19 @@ The Washington Post
 
 @jerome_etienne
 
+<!-- NOTES -->
+- AR en para los proyectos de aframe
+
 ---
 
 <!-- .slide: data-background="media/img/webvrstudio.png" -->
 
-# Tools - *WebVR Studio*
+# Tools - *Ottifox*
 
-@webvrstudio
+@ottifox
+
+<!-- NOTES -->
+- Programa de MAC para cerar VR y AR
 
 ---
 
@@ -516,6 +533,9 @@ The Washington Post
 
 iStaging
 
+<!-- NOTES -->
+- Live tours platfrom
+
 ---
 
 <!-- .slide: data-background="media/img/cadavr.gif" -->
@@ -523,6 +543,9 @@ iStaging
 # Educación - *CadaVR*
 
 @drryanjames
+
+<!-- NOTES -->
+- Anatomía y medicina en VR
 
 ---
 
